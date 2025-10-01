@@ -210,7 +210,7 @@ I can convert this roadmap into a prioritized backlog with epics, sprints, tasks
 
 ---
 
-# Plan, Diagrams & README for GitHub
+# Plan and Diagrams of the Application 
 
 I added a ready-to-publish plan, component diagram (Mermaid), sequence diagram (Mermaid), and a `README.md` you can drop into a GitHub repo. Below are the items appended to this document (open the canvas to copy/paste or download):
 
@@ -366,8 +366,3 @@ sequenceDiagram
   Notif->>Client: push / email
 ```
 
-## 4) README.md (ready to paste)
-
-```
-# Z
-```
